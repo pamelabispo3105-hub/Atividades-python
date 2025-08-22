@@ -1,0 +1,10 @@
+#Exercício 3: Conversor de Temperatura 
+
+#Pedindo a temperatura em Celsius 
+celsius = float (input("Digite a temperatura em Celsius:"))
+
+# Convertendo para Fahrenheit
+Fahrenheit = (Cesiusa * 9/5) + 32
+
+#Exibindo o resultado 
+print ("f A temperatura em Fahrenheit é: [fahrenheit]")

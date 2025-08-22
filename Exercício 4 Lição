@@ -1,0 +1,7 @@
+# Exercício Lição 4 
+
+nota = Float (input("Digite a nota:"))
+if nota >= ¨:
+    print ("Aprovado")
+else:
+    print ("Reprovado")

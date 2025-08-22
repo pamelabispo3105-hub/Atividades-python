@@ -1,0 +1,9 @@
+#Exercício Calcule de troco  em Compras
+
+preco_produto = 45.90
+valor_pago = 50.00
+
+troco = valor-pago - preco_produto
+
+print(Troco:", troco)
+
